@@ -33,3 +33,8 @@ body::before {
         background-attachment: fixed;
     }
 }
+
+a:hover {
+    color: #35e888;
+    text-decoration: none;
+}
