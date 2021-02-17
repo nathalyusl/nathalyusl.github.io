@@ -15,3 +15,8 @@ body{
     position: relative;
     background: transparent;
 }
+
+body::before {
+    content: "";
+    
+}
