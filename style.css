@@ -215,6 +215,11 @@ h1, h2, h3, h4, h5, h6 {
 .navbar a:before {
   content: "";
   position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -4px;
+  left: 0;
+
 
 
 
