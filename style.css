@@ -388,6 +388,10 @@ section .container {
   align-items: center;
 }
 
+.about-me .content ul strong {
+  margin-right: 10px;
+}
+
 
 
 
