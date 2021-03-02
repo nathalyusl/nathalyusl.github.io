@@ -399,6 +399,11 @@ section .container {
   line-height: 0;
 }
 
+.about-me .content p:last-child {
+  margin-bottom: 0;
+}
+
+
 
 
 
