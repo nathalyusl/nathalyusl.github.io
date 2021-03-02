@@ -470,6 +470,10 @@ section .container {
   font-style: normal;
 }
 
+.skills .progress-bar-wrap {
+  background: rgba(255, 255, 255, 0.2);
+}
+
 
 
 
