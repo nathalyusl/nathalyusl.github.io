@@ -410,6 +410,15 @@ section .container {
   padding: 70px 0 60px;
 }
 
+.counts .count-box {
+  padding: 30px 30px 25px 30px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+
 
 
 
