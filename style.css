@@ -431,6 +431,13 @@ section .container {
   line-height: 0;
 }
 
+.counts .count-box span {
+  font-size: 36px;
+  display: block;
+  font-weight: 600;
+  color: #fff;
+}
+
 
 
 
