@@ -507,6 +507,10 @@ section .container {
   color: #fff;
 }
 
+.interests .icon-box:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
 
 
 
