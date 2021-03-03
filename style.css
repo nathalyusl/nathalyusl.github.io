@@ -492,6 +492,12 @@ section .container {
   transition: ease-in-out 0.3s;
 }
 
+.interests .icon-box i {
+  font-size: 32px;
+  padding-right: 10px;
+  line-height: 1;
+}
+
 
 
 
