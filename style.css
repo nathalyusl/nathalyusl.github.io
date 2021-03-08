@@ -570,6 +570,11 @@ section .container {
   z-index: 1;
 }
 
+.testimonials .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
 
 
 
