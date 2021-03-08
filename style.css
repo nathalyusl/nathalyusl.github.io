@@ -546,6 +546,11 @@ section .container {
   font-size: 26px;
 }
 
+.testimonials .testimonial-item .quote-icon-left {
+  display: inline-block;
+  left: -5px;
+  position: relative;
+}
 
 
 
