@@ -582,6 +582,10 @@ section .container {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
+.testimonials .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #18d26e;
+}
+
 
 
 
