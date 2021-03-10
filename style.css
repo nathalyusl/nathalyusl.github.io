@@ -671,6 +671,11 @@ section .container {
   transform-style: preserve-3d;
 }
 
+.services .icon-box .icon i {
+  color: #fff;
+  font-size: 28px;
+}
+
 
 
 
