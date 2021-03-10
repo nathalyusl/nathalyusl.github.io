@@ -627,6 +627,9 @@ section .container {
   padding-left: 20px;
 }
 
+.resume .resume-item ul li {
+  padding-bottom: 10px;
+}
 
 
 
