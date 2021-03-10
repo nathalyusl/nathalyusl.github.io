@@ -631,6 +631,10 @@ section .container {
   padding-bottom: 10px;
 }
 
+.resume .resume-item:last-child {
+  padding-bottom: 0;
+}
+
 
 
 
