@@ -718,6 +718,10 @@ section .container {
   color: #18d26e;
 }
 
+.services .icon-box:hover .icon::before {
+  background: #35e888;
+}
+
 
 
 
