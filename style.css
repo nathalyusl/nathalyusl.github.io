@@ -844,6 +844,11 @@ section .container {
   margin: 0;
 }
 
+.portfolio .portfolio-wrap .portfolio-links {
+  text-align: center;
+  z-index: 4;
+}
+
 
 
 
