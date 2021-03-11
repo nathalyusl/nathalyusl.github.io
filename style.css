@@ -714,6 +714,10 @@ section .container {
   background: #fff;
 }
 
+.services .icon-box:hover .icon i {
+  color: #18d26e;
+}
+
 
 
 
