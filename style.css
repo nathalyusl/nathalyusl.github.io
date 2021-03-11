@@ -699,6 +699,12 @@ section .container {
   color: #fff;
 }
 
+.services .icon-box p {
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
 
 
 
