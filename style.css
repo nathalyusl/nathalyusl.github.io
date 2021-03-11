@@ -761,6 +761,10 @@ section .container {
   background: #18d26e;
 }
 
+.portfolio #portfolio-flters li:last-child {
+  margin-right: 0;
+}
+
 
 
 
