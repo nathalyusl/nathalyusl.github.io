@@ -836,6 +836,14 @@ section .container {
   font-weight: 600;
 }
 
+.portfolio .portfolio-wrap .portfolio-info p {
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
 
 
 
