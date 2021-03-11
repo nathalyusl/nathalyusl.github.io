@@ -705,6 +705,11 @@ section .container {
   margin-bottom: 0;
 }
 
+.services .icon-box:hover {
+  background: #18d26e;
+  border-color: #18d26e;
+}
+
 
 
 
