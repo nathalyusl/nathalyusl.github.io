@@ -689,6 +689,11 @@ section .container {
   transform: translateZ(-1px);
 }
 
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
 
 
 
