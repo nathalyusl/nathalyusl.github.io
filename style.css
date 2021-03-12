@@ -902,6 +902,12 @@ section .container {
   padding-bottom: 40px;
 }
 
+.portfolio-details .portfolio-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
 
 
 
