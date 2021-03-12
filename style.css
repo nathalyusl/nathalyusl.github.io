@@ -939,7 +939,10 @@ section .container {
   }
 }
 
-
+.portfolio-details .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
 
 
 
