@@ -878,6 +878,11 @@ section .container {
   left: 15px;
 }
 
+.portfolio .portfolio-wrap:hover .portfolio-info::after {
+  bottom: 15px;
+  right: 15px;
+}
+
 
 
 
