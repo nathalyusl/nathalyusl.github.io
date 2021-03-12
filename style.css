@@ -869,7 +869,9 @@ section .container {
   opacity: 1;
 }
 
-
+.portfolio .portfolio-wrap:hover .portfolio-info {
+  opacity: 1;
+}
 
 
 
