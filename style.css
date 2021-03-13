@@ -1003,6 +1003,10 @@ section .container {
   transition: 0.3s;
 }
 
+.contact .info-box .social-links a:hover {
+  color: #18d26e;
+}
+
 
 
 
