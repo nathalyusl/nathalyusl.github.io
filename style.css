@@ -974,6 +974,13 @@ section .container {
   background: rgba(255, 255, 255, 0.1);
 }
 
+.contact .info-box h3 {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+  margin: 10px 0 8px 68px;
+}
+
 
 
 
