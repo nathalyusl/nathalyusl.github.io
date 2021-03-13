@@ -981,6 +981,14 @@ section .container {
   margin: 10px 0 8px 68px;
 }
 
+.contact .info-box p {
+  padding: 0;
+  color: #fff;
+  line-height: 24px;
+  font-size: 14px;
+  margin: 0 0 0 68px;
+}
+
 
 
 
