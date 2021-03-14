@@ -1092,6 +1092,8 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"] {
+  background: #18d26e;
+}
 
 
 
