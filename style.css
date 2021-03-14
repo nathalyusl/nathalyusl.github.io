@@ -1073,6 +1073,11 @@ section .container {
   opacity: 1;
 }
 
+.contact .php-email-form input::-moz-placeholder, .contact .php-email-form textarea::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+  opacity: 1;
+}
+
 
 
 
