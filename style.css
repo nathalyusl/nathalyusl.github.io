@@ -1084,6 +1084,8 @@ section .container {
 }
 
 .contact .php-email-form input {
+  padding: 10px 15px;
+}
 
 
 
