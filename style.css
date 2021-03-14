@@ -1088,6 +1088,8 @@ section .container {
 }
 
 .contact .php-email-form textarea {
+  padding: 12px 15px;
+}
 
 
 
