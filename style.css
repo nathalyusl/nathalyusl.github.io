@@ -1078,6 +1078,10 @@ section .container {
   opacity: 1;
 }
 
+.contact .php-email-form input::placeholder, .contact .php-email-form textarea::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+
+
 
 
 
