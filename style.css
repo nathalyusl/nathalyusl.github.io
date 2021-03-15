@@ -1132,6 +1132,7 @@ section .container {
   bottom: 0;
   padding: 15px;
   text-align: right;
+  font-size: 13px;
 }
 
 
