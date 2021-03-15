@@ -1145,6 +1145,11 @@ section .container {
   }
 }
 
+.credits a {
+  color: #18d26e;
+  transition: 0.3s;
+}
+
 
 
 
