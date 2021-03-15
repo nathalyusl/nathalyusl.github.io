@@ -1127,6 +1127,7 @@ section .container {
 --------------------------------------------------------------*/
 .credits {
   position: fixed;
+  right: 0;
 }
 
 
