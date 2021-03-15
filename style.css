@@ -1150,6 +1150,11 @@ section .container {
   transition: 0.3s;
 }
 
+.credits a:hover {
+  color: #fff;
+}
+
+
 
 
 
