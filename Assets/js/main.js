@@ -33,3 +33,7 @@
       }
     }
   }
+
+  /**
+   * Scrolls to an element with header offset
+   */
