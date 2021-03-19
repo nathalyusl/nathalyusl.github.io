@@ -69,3 +69,5 @@
       navlinks.forEach((item) => {
         item.classList.remove('active')
       })
+
+      this.classList.add('active')
