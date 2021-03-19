@@ -60,3 +60,8 @@
     let section = select(this.hash)
     if (section) {
       e.preventDefault()
+
+      let navbar = select('#navbar')
+      let header = select('#header')
+      let sections = select('section', true)
+      let navlinks = select('#navbar .nav-link', true)
