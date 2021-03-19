@@ -103,4 +103,7 @@
         section.classList.add('section-show')
       }
 
+      scrollto(this.hash)
+    }
+  }, true)
 
