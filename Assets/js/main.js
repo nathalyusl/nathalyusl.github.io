@@ -117,3 +117,5 @@
       if (initial_nav) {
         let header = select('#header')
         let navlinks = select('#navbar .nav-link', true)
+
+        header.classList.add('header-top')
