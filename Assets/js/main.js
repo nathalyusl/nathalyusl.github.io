@@ -119,3 +119,11 @@
         let navlinks = select('#navbar .nav-link', true)
 
         header.classList.add('header-top')
+
+        navlinks.forEach((item) => {
+          if (item.getAttribute('href') == window.location.hash) {
+            item.classList.add('active')
+          } else {
+            item.classList.remove('active')
+          }
+        })
