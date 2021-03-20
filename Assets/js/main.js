@@ -153,3 +153,7 @@
       }
     })
   }
+
+  /**
+   * Testimonials slider
+   */
