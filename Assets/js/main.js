@@ -127,3 +127,7 @@
             item.classList.remove('active')
           }
         })
+
+        setTimeout(function() {
+          initial_nav.classList.add('section-show')
+        }, 350);
