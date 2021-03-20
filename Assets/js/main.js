@@ -110,3 +110,6 @@
   /**
    * Activate/show sections on load with hash links
    */
+  window.addEventListener('load', () => {
+    if (window.location.hash) {
+      let initial_nav = select(window.location.hash)
