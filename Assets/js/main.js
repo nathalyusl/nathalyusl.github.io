@@ -193,3 +193,5 @@
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows'
       });
+
+      let portfolioFilters = select('#portfolio-flters li', true);
