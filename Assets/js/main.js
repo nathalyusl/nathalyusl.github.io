@@ -182,3 +182,7 @@
       }
     }
   });
+
+  /**
+   * Porfolio isotope and filter
+   */
